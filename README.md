@@ -1,7 +1,7 @@
 # I have created a GitHub repository for my project, Fake News Detection (Text Only - Binary Classification: True or False). The project focuses on classifying news as either true or false using machine learning and deep learning models.
 
 Datasets Used:
-LIAR ([Link](https://sites.cs.ucsb.edu/~william/data/))
+LIAR ([Link](https://sites.cs.ucsb.edu/~william/data/)),
 Fake News Database ([Link](https://zenodo.org/records/10354245))
 
 Feature Extraction:
