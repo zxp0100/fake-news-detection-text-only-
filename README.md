@@ -10,10 +10,10 @@ Feature Extraction:
 
 Models Implemented:
 1) Traditional Machine Learning Models:
-Random Forest (RF)
-Passive Aggressive Classifier (PAC)
-Support Vector Machine (SVM)
-Logistic Regression (LR)
+Random Forest (RF),
+Passive Aggressive Classifier (PAC),
+Support Vector Machine (SVM),
+Logistic Regression (LR),
 Naïve Bayes (NB)
 
 2) Deep Learning Model:
