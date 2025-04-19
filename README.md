@@ -2,7 +2,6 @@
 
 Datasets Used:
 LIAR ([Link](https://sites.cs.ucsb.edu/~william/data/)),
-Fake News Database ([Link](https://zenodo.org/records/10354245))
 
 Feature Extraction:
 1) TF-IDF (Term Frequency-Inverse Document Frequency)
